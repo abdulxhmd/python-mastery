@@ -1,1 +1,1 @@
-print("Hello Git!")
+print("GitHub authentification successful!")
